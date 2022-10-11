@@ -34,7 +34,7 @@ const ManagementComponent = ({ component }) => {
                         textAlign: "center"
                     }}
                 >
-                    Nguyen Quang Huy - HuyNQ129
+                   
                 </Footer>
             </Layout>
         </Layout>
